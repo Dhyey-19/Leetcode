@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0001-two-sum) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-19/Leetcode/tree/master/0002-add-two-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
