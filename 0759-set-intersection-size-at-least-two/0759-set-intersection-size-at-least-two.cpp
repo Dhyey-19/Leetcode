@@ -1,46 +1,36 @@
 class Solution {
 public:
+    static bool cmp(vector<int>& a, vector<int>& b){
+        if (a[1] == b[1]) return a[0] > b[0];
+        else return a[1] < b[1];
+    }
     int intersectionSizeTwo(vector<vector<int>>& intervals) {
+        int ans = 0;
+        sort(intervals.begin(), intervals.end(), cmp);
+        int n = intervals.size();
 
-        // Step 1: Sort intervals by increasing end.
-        // If ends are same, sort start in decreasing order.
-        sort(intervals.begin(), intervals.end(), [](auto &a, auto &b){
-            if (a[1] == b[1]) 
-                return a[0] > b[0];     // start decreasing when end same
-            return a[1] < b[1];
-        });
+        int a = -1, b = -1;
 
-        int result = 0;
+        for (int i = 0; i < n; i++){
+            int start = intervals[i][0], end = intervals[i][1];
 
-        // last1 = largest picked number
-        // last2 = second largest picked number
-        int last1 = -1, last2 = -1;
+            bool a_in = (a >= start);
+            bool b_in = (b >= start);
 
-        for (auto &in : intervals) {
-            int l = in[0], r = in[1];
+            if(a_in && b_in) continue;
 
-            bool last1_in = (last1 >= l && last1 <= r);
-            bool last2_in = (last2 >= l && last2 <= r);
-
-            // Case 1 → both already inside → do nothing
-            if (last1_in && last2_in) {
-                continue;
-            }
-
-            // Case 2 → only one is inside → add 1 new number (r)
-            if (last1_in) {
-                result += 1;
-                last2 = last1;
-                last1 = r;
+            if(!a_in && !b_in){
+                ans += 2;
+                b = end;
+                a = end - 1;
             }
             else {
-                // neither inside → pick two numbers r-1 and r
-                result += 2;
-                last2 = r - 1;
-                last1 = r;
+                ans += 1;
+                a = b;
+                b = end;
             }
         }
 
-        return result;
+        return ans;
     }
 };
