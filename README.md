@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhyey-19/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dhyey-19/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Dhyey-19/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Enumeration
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting Sort
 |  |
 | ------- |
