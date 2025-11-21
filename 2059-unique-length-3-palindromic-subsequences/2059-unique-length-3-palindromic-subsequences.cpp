@@ -1,28 +1,29 @@
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
-        int cnt = 0;
+        int n = s.size(), count = 0;
+        vector<pair<int, int>> st(26, {-1, -1});
 
-        // Store first and last occurrence of each character
-        for (char ch = 'a'; ch <= 'z'; ch++) {
-            int first = -1, last = -1;
-            for (int i = 0; i < s.size(); i++) {
-                if (s[i] == ch) {
-                    if (first == -1) {
-                        first = i;
-                    }
-                    last = i;
-                }
+        for (int i = 0; i < n; i++) {
+            if (st[s[i] - 'a'].first == -1) {
+                st[s[i] - 'a'].first = i;
             }
-            if(first == -1 || first == last) {
-                continue;
-            }
-            unordered_set<char> middle;
-            for(int i = first + 1; i < last; i++) {
-                middle.insert(s[i]);
-            }
-            cnt += middle.size();
+            st[s[i] - 'a'].second = i;
         }
-        return cnt;
+
+        for (int i = 0; i < 26; i++) {
+            int low = st[i].first;
+            if (low == -1)
+                continue;
+
+            int high = st[i].second;
+
+            unordered_set<char> temp;
+            for (int j = low + 1; j < high; j++) {
+                temp.insert(s[j]);
+            }
+            count += temp.size();
+        }
+        return count;
     }
 };
