@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhyey-19/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhyey-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
