@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhyey-19/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhyey-19/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sorting
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhyey-19/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhyey-19/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -171,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhyey-19/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhyey-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
