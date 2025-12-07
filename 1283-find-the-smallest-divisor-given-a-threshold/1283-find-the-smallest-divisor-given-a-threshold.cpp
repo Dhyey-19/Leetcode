@@ -1,28 +1,26 @@
 class Solution {
 public:
-    int MaxElement(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        return nums[nums.size() - 1];
-    }
-
-    int divisor(vector<int>& nums, int mid) {
-        int sum = 0;
-        for (int val : nums) {
-            sum += ceil((double)val / (double)mid);
+    bool isPossible(int mid, vector<int>& nums, int th){
+        int sm = 0;
+        for (auto val : nums){
+            sm += (val / mid);
+            if(val % mid != 0) sm++;
+            if (sm > th) return 0;
         }
-        return sum;
+        return sm <= th;
     }
-
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int low = 1, high = MaxElement(nums);
-        while (low <= high) {
+        int low = 1, high = *max_element(nums.begin(),nums.end());
+        int ans = 0;
+        while (low <= high){
             int mid = low + (high - low) / 2;
-            if (divisor(nums, mid) <= threshold) {
+            if (isPossible(mid, nums, threshold)){
+                ans = mid;
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-        return low;
+        return ans;
     }
 };
