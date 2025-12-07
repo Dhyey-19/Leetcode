@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dhyey-19/Leetcode/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dhyey-19/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0875-koko-eating-bananas](https://github.com/Dhyey-19/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dhyey-19/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhyey-19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -225,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0875-koko-eating-bananas](https://github.com/Dhyey-19/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhyey-19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
