@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dhyey-19/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhyey-19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhyey-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -224,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhyey-19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
