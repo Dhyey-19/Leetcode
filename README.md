@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Dhyey-19/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Dhyey-19/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dhyey-19/Leetcode/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhyey-19/Leetcode/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dhyey-19/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dhyey-19/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
