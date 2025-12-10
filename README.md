@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dhyey-19/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -151,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dhyey-19/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/3583-count-special-triplets) |
 ## Matrix
