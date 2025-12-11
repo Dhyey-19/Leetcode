@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhyey-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/Dhyey-19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/Dhyey-19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhyey-19/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhyey-19/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3531-count-covered-buildings](https://github.com/Dhyey-19/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Number Theory
 |  |
 | ------- |
