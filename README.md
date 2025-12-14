@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-19/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhyey-19/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhyey-19/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dhyey-19/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greedy
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Dhyey-19/Leetcode/tree/master/2058-concatenation-of-array) |
