@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Dhyey-19/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Dhyey-19/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Dhyey-19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dhyey-19/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhyey-19/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Dhyey-19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dhyey-19/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
