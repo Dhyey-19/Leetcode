@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dhyey-19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dhyey-19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dhyey-19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
