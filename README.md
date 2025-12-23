@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Dhyey-19/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhyey-19/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhyey-19/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-19/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2054-two-best-non-overlapping-events](https://github.com/Dhyey-19/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Dhyey-19/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhyey-19/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Dhyey-19/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhyey-19/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/Dhyey-19/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhyey-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhyey-19/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/Dhyey-19/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Two Pointers
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhyey-19/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhyey-19/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
