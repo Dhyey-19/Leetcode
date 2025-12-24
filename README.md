@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhyey-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Dhyey-19/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhyey-19/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/Dhyey-19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Dhyey-19/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Number Theory
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1903-largest-odd-number-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
