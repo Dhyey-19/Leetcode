@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhyey-19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhyey-19/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/Dhyey-19/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dhyey-19/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dhyey-19/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhyey-19/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhyey-19/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Dhyey-19/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhyey-19/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0415-add-strings) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Dhyey-19/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Monotonic Stack
