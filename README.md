@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhyey-19/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Dhyey-19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dhyey-19/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
