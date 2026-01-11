@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Dhyey-19/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3708-longest-fibonacci-subarray](https://github.com/Dhyey-19/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
