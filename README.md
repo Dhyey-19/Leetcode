@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Dhyey-19/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Dhyey-19/Leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/0349-intersection-of-two-arrays) |
