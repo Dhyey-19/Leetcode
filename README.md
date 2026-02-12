@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/Dhyey-19/Leetcode/tree/master/0796-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dhyey-19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -470,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dhyey-19/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
