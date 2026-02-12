@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhyey-19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhyey-19/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Dhyey-19/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhyey-19/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhyey-19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhyey-19/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
