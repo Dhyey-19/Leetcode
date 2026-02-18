@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhyey-19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Dhyey-19/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/Dhyey-19/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhyey-19/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0205-isomorphic-strings) |
