@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhyey-19/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Dhyey-19/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Dhyey-19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhyey-19/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0415-add-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Dhyey-19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dhyey-19/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhyey-19/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhyey-19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
