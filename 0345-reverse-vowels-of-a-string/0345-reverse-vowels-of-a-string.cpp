@@ -8,13 +8,13 @@ public:
     string reverseVowels(string s) {
         int left = 0, right = s.length() - 1;
         while(left < right) {
-            while(!isVowel(s[left]) && left < right) {
+            if(isVowel(s[left]) && isVowel(s[right])) {
+                swap(s[left++], s[right--]);
+            } else if(!isVowel(s[left])) {
                 left++;
-            }
-            while(!isVowel(s[right]) && left < right) {
+            } else if(!isVowel(s[right])){
                 right--;
             }
-            swap(s[left++], s[right--]);
         }
         return s;
     }
