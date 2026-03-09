@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhyey-19/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/Dhyey-19/Leetcode/tree/master/0482-license-key-formatting) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Dhyey-19/Leetcode/tree/master/0796-rotate-string) |
