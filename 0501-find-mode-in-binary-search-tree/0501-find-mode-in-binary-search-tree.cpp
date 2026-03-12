@@ -1,27 +1,40 @@
 class Solution {
-public:
-    
-    void dfs(TreeNode* root, unordered_map<int,int>& freq) {
-        if(!root) return;
+public: 
+    TreeNode* prev = nullptr;  
+    int count = 0;
+    int maxCount = 0;
+    vector<int> result; 
 
-        freq[root->val]++;
-        dfs(root->left, freq);
-        dfs(root->right, freq);
-    }
+    void inorder(TreeNode* root) {
+        if (!root) return;
 
-    vector<int> findMode(TreeNode* root) {
+        inorder(root->left);
+        if (prev == nullptr) { 
+            count = 1; 
+        } 
+        else if (prev->val == root->val) { 
+            count++; 
+        } 
+        else { 
+            count = 1; 
+        } 
 
-        unordered_map<int,int> freq;
-        dfs(root, freq);
-        int maxFreq = 0;
-        for(auto &p : freq)
-            maxFreq = max(maxFreq, p.second);
+        if (count > maxCount) { 
+            maxCount = count; 
+            result.clear(); 
+            result.push_back(root->val); 
+        } 
+        else if (count == maxCount) { 
+            result.push_back(root->val); 
+        } 
 
-        vector<int> res;
-        for(auto &p : freq)
-            if(p.second == maxFreq)
-                res.push_back(p.first);
+        prev = root;  // Update prev to current node
 
-        return res;
-    }
+        inorder(root->right);
+    } 
+
+    vector<int> findMode(TreeNode* root) { 
+        inorder(root); 
+        return result; 
+    } 
 };
