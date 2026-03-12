@@ -1,16 +1,12 @@
 class Solution {
 public:
     bool checkPerfectNumber(int num) {
-        vector<int> factors;
+        int sum = 0;
         for(int i = 1; i < num; i++) {
             if(num % i == 0) {
-                factors.push_back(i);
+                sum += i;
             }
         }
-        if(accumulate(factors.begin(), factors.end(), 0) == num) {
-            return true;
-        } else {
-            return false;
-        }
+        return sum == num;
     }
 };
