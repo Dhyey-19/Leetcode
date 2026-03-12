@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Dhyey-19/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Dhyey-19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Dhyey-19/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Dhyey-19/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dhyey-19/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhyey-19/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Dhyey-19/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Dhyey-19/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhyey-19/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Dhyey-19/Leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-19/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Dhyey-19/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
