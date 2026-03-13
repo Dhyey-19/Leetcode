@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Dhyey-19/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Dhyey-19/Leetcode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Dhyey-19/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dhyey-19/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dhyey-19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Dhyey-19/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Dhyey-19/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
