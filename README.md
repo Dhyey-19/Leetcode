@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhyey-19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhyey-19/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/Dhyey-19/Leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhyey-19/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhyey-19/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Dhyey-19/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Dhyey-19/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Dhyey-19/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhyey-19/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Dhyey-19/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Dhyey-19/Leetcode/tree/master/0344-reverse-string) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhyey-19/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Dhyey-19/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Dhyey-19/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhyey-19/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -593,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dhyey-19/Leetcode/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Dhyey-19/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
