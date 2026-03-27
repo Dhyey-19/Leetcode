@@ -1,22 +1,34 @@
 class Solution {
 public:
-    bool isPalindrome(string s, int left, int right) {
-        while(left < right) {
-            if(s[left] != s[right]) return false;
-            left++;
-            right--;
+bool ispalindrome(string y,int l,int r)
+{
+    while(l<r)
+    {
+        if(y[l]!=y[r])
+        {
+            return false;
+        }
+        l++;
+        r--;
+    }
+    return true;
+}
+    bool validPalindrome(string s) {
+        int left=0;
+        int right=s.size()-1;
+        while(left<right)
+        {
+            if(s[left]==s[right])
+            {
+                left++;
+                right--;
+            }
+            else
+            {
+                return ispalindrome(s,left+1,right) || ispalindrome(s,left,right-1);
+            }
         }
         return true;
-    }
-    bool validPalindrome(string s) {
-        int start = 0, end = s.length() - 1;
-        while(start < end) {
-            if(s[start] != s[end]) {
-                return isPalindrome(s, start + 1, end) || isPalindrome(s, start, end - 1);
-            }
-            start++;
-            end--;
-        }    
-        return true;
+        
     }
 };
