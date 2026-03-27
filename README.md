@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0661-image-smoother](https://github.com/Dhyey-19/Leetcode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Dhyey-19/Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Dhyey-19/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Dhyey-19/Leetcode/tree/master/0724-find-pivot-index) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Dhyey-19/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Dhyey-19/Leetcode/tree/master/0661-image-smoother) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
