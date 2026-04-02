@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/Dhyey-19/Leetcode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2923-find-champion-i](https://github.com/Dhyey-19/Leetcode/tree/master/2923-find-champion-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhyey-19/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2923-find-champion-i](https://github.com/Dhyey-19/Leetcode/tree/master/2923-find-champion-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhyey-19/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dhyey-19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Prefix Sum
