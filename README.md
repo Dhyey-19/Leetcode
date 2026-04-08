@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Dhyey-19/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3803-count-residue-prefixes](https://github.com/Dhyey-19/Leetcode/tree/master/3803-count-residue-prefixes) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Dhyey-19/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/Dhyey-19/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3803-count-residue-prefixes](https://github.com/Dhyey-19/Leetcode/tree/master/3803-count-residue-prefixes) |
 ## Sliding Window
 |  |
 | ------- |
