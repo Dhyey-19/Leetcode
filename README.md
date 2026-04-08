@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhyey-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhyey-19/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhyey-19/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1534-count-good-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/1534-count-good-triplets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Dhyey-19/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Dhyey-19/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhyey-19/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhyey-19/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
