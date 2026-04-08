@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhyey-19/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhyey-19/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhyey-19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dhyey-19/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/Dhyey-19/Leetcode/tree/master/2751-robot-collisions) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dhyey-19/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
