@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Dhyey-19/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3708-longest-fibonacci-subarray](https://github.com/Dhyey-19/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhyey-19/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dhyey-19/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-19/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Dhyey-19/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhyey-19/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dhyey-19/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3803-count-residue-prefixes](https://github.com/Dhyey-19/Leetcode/tree/master/3803-count-residue-prefixes) |
 ## String
 |  |
