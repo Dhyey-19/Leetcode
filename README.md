@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhyey-19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dhyey-19/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhyey-19/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/Dhyey-19/Leetcode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Dhyey-19/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhyey-19/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhyey-19/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhyey-19/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
