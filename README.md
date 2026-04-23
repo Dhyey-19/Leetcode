@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dhyey-19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dhyey-19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Dhyey-19/Leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhyey-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Dhyey-19/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
