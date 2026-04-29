@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Dhyey-19/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhyey-19/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/Dhyey-19/Leetcode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dhyey-19/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dhyey-19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
