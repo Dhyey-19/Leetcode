@@ -1,24 +1,33 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        unordered_map<int, int> freq;
-        int n = grid.size();
+        long long n = grid.size();
+        long long N = n * n;
 
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                freq[grid[i][j]]++;
+        long long expectedSum = N * (N + 1) / 2;
+        long long expectedSqSum = N * (N + 1) * (2 * N + 1) / 6;
+
+        long long actualSum = 0;
+        long long actualSqSum = 0;
+
+        for (auto &row : grid) {
+            for (int num : row) {
+                actualSum += num;
+                actualSqSum += 1LL * num * num;
             }
         }
 
-        int repeated = -1, missing = -1;
+        long long diff = actualSum - expectedSum; 
+        // x - y
 
-        for(int num = 1; num <= n * n; num++) {
-            if(freq[num] == 2)
-                repeated = num;
+        long long sqDiff = actualSqSum - expectedSqSum; 
+        // x² - y²
 
-            if(freq[num] == 0)
-                missing = num;
-        }
+        long long sum = sqDiff / diff; 
+        // x + y
+
+        int repeated = (diff + sum) / 2;
+        int missing = sum - repeated;
 
         return {repeated, missing};
     }
