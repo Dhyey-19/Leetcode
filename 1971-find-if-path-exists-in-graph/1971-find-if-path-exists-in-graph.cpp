@@ -1,33 +1,29 @@
 class Solution {
 public:
-    bool validPath(int n, vector<vector<int>>& edges, int source,
-                   int destination) {
-        vector<vector<int>> adjList(n);
-        for (auto it : edges) {
-            adjList[it[0]].push_back(it[1]);
-            adjList[it[1]].push_back(it[0]);
+    vector<int> parent;
+    int find(int x) {
+        if(parent[x] == x) {
+            return x;
         }
-        vector<bool> visited(n, false);
-        queue<int> q;
+        return parent[x] = find(parent[x]);
+    }
 
-        q.push(source);
-        visited[source] = true;
-
-        while (!q.empty()) {
-            int x = q.front();
-            q.pop();
-            
-            if(x == destination) {
-                return true;
-            }
-
-            for (int n : adjList[x]) {
-                if (!visited[n]) {
-                    q.push(n);
-                    visited[n] = true;
-                }
-            }
+    void unite(int x, int y) {
+        int px = find(x);
+        int py = find(y);
+        if (px != py) {
+            parent[px] = py;
         }
-        return false;
+    }
+
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        parent.resize(n);
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+        for (auto &e : edges) {
+            unite(e[0], e[1]);
+        }
+        return find(source) == find(destination);
     }
 };
