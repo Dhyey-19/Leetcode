@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhyey-19/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dhyey-19/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhyey-19/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dhyey-19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhyey-19/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhyey-19/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dhyey-19/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dhyey-19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1496-path-crossing](https://github.com/Dhyey-19/Leetcode/tree/master/1496-path-crossing) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dhyey-19/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhyey-19/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhyey-19/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
