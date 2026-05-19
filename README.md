@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dhyey-19/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhyey-19/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Dhyey-19/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dhyey-19/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/Dhyey-19/Leetcode/tree/master/2751-robot-collisions) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Dhyey-19/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Dhyey-19/Leetcode/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhyey-19/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhyey-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dhyey-19/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhyey-19/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhyey-19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Dhyey-19/Leetcode/tree/master/2540-minimum-common-value) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhyey-19/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2054-two-best-non-overlapping-events](https://github.com/Dhyey-19/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2540-minimum-common-value](https://github.com/Dhyey-19/Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Dhyey-19/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Tree
 |  |
