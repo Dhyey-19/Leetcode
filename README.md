@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Dhyey-19/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dhyey-19/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Dhyey-19/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Dhyey-19/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Dhyey-19/Leetcode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Dhyey-19/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/Dhyey-19/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dhyey-19/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dhyey-19/Leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dhyey-19/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Dhyey-19/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dhyey-19/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhyey-19/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Dhyey-19/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Dhyey-19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhyey-19/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/Dhyey-19/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Dhyey-19/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dhyey-19/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
