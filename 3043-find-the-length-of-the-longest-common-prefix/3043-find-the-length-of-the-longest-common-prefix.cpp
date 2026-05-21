@@ -1,34 +1,26 @@
 class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        unordered_set<int> s;
-        for (int x : arr1) {
-            int t = x;
-            vector<int> prefixes;
-            while (t > 0) {
-                prefixes.push_back(t);
-                t /= 10;
-            }
-            reverse(prefixes.begin(), prefixes.end());
-            for (int p : prefixes) {
-                s.insert(p);
+        unordered_set<string> s;
+        int cnt = 0;
+        for (int a : arr1) {
+            string str = to_string(a);
+            string prefix = "";
+            for (char ch : str) {
+                prefix += ch;
+                s.insert(prefix);
             }
         }
-        int ans = 0;
-        for (int x : arr2) {
-            int t = x;
-            vector<int> prefixes;
-            while (t > 0) {
-                prefixes.push_back(t);
-                t /= 10;
-            }
-            reverse(prefixes.begin(), prefixes.end());
-            for (int p : prefixes) {
-                if (s.count(p)) {
-                    ans = max(ans, (int)to_string(p).length());
+        for (int a : arr2) {
+            string str = to_string(a);
+            string prefix = "";
+            for(int i = 0; i < str.length(); i++) {
+                prefix += str[i];
+                if(s.count(prefix)) {
+                    cnt = max(cnt, i + 1);
                 }
             }
         }
-        return ans;
+        return cnt;
     }
 };
