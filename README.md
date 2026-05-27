@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0874-walking-robot-simulation](https://github.com/Dhyey-19/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Dhyey-19/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dhyey-19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhyey-19/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Dhyey-19/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhyey-19/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Dhyey-19/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhyey-19/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhyey-19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Dhyey-19/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhyey-19/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dhyey-19/Leetcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greedy
 |  |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dhyey-19/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhyey-19/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhyey-19/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhyey-19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhyey-19/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhyey-19/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
