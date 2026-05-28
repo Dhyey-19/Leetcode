@@ -8,21 +8,66 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
+
+    // Find node before middle
+    ListNode* findMiddle(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        return slow;
+    }
+
+    ListNode* mergeTwoLists(ListNode* left, ListNode* right) {
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+
+        while (left && right) {
+            if (left->val <= right->val) {
+                temp->next = left;
+                left = left->next;
+            } else {
+                temp->next = right;
+                right = right->next;
+            }
+
+            temp = temp->next;
+        }
+
+        if (left) {
+            temp->next = left;
+        }
+
+        if (right) {
+            temp->next = right;
+        }
+
+        return dummy->next;
+    }
+
     ListNode* sortList(ListNode* head) {
-        vector<int> arr;
-        ListNode* temp = head;
-        while(temp) {
-            arr.push_back(temp->val);
-            temp = temp->next;
+
+        if (head == nullptr || head->next == nullptr) {
+            return head;
         }
-        sort(arr.begin(), arr.end());
-        temp = head;
-        for(int a : arr) {
-            temp->val = a;
-            temp = temp->next;
-        }
-        return head;
+
+        ListNode* middle = findMiddle(head);
+
+        ListNode* left = head;
+        ListNode* right = middle->next;
+
+        middle->next = nullptr;
+
+        left = sortList(left);
+        right = sortList(right);
+
+        return mergeTwoLists(left, right);
     }
 };
