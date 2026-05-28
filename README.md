@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dhyey-19/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhyey-19/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Dhyey-19/Leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhyey-19/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhyey-19/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhyey-19/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/Dhyey-19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Dhyey-19/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dhyey-19/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhyey-19/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhyey-19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Dhyey-19/Leetcode/tree/master/2540-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhyey-19/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
