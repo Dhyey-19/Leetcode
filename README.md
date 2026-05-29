@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dhyey-19/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Dhyey-19/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Dhyey-19/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Dhyey-19/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhyey-19/Leetcode/tree/master/0075-sort-colors) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dhyey-19/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Dhyey-19/Leetcode/tree/master/0051-n-queens) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhyey-19/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
