@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Dhyey-19/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhyey-19/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhyey-19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/Dhyey-19/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Dhyey-19/Leetcode/tree/master/1390-four-divisors) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Dhyey-19/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhyey-19/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
