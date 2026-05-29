@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dhyey-19/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Dhyey-19/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0791-custom-sort-string](https://github.com/Dhyey-19/Leetcode/tree/master/0791-custom-sort-string) |
+| [0859-buddy-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhyey-19/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Dhyey-19/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dhyey-19/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Dhyey-19/Leetcode/tree/master/0796-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Dhyey-19/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Dhyey-19/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Dhyey-19/Leetcode/tree/master/0859-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dhyey-19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
