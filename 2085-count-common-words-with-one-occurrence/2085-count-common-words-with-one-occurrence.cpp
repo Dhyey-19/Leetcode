@@ -10,10 +10,10 @@ public:
             mp2[str]++;
         }
         int cnt = 0;
-        for(auto &[str, f] : mp1) {
-            if(f == 1 && mp2[str] == 1) {
+        for(string s : words1) {
+            if(mp1[s] == 1 && mp2[s] == 1) {
                 cnt++;
-            } 
+            }
         }
         return cnt;
     }
