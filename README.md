@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Dhyey-19/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhyey-19/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhyey-19/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Dhyey-19/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhyey-19/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhyey-19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dhyey-19/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhyey-19/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Dhyey-19/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Dhyey-19/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhyey-19/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dhyey-19/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Dhyey-19/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dhyey-19/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/Dhyey-19/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhyey-19/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhyey-19/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhyey-19/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Dhyey-19/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Dhyey-19/Leetcode/tree/master/3583-count-special-triplets) |
 ## Matrix
