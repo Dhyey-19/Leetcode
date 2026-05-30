@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhyey-19/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Dhyey-19/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhyey-19/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2578-split-with-minimum-sum](https://github.com/Dhyey-19/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dhyey-19/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhyey-19/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhyey-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhyey-19/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Dhyey-19/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhyey-19/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2578-split-with-minimum-sum](https://github.com/Dhyey-19/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2751-robot-collisions](https://github.com/Dhyey-19/Leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Dhyey-19/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhyey-19/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Dhyey-19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhyey-19/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dhyey-19/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2578-split-with-minimum-sum](https://github.com/Dhyey-19/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhyey-19/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dhyey-19/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
