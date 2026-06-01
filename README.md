@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhyey-19/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-19/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Dhyey-19/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/Dhyey-19/Leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dhyey-19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Dhyey-19/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dhyey-19/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/Dhyey-19/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Dhyey-19/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dhyey-19/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhyey-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Dhyey-19/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Dhyey-19/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhyey-19/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Dhyey-19/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/Dhyey-19/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
