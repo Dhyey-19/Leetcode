@@ -1,11 +1,11 @@
 class Solution {
 public:
     int findSpecialInteger(vector<int>& arr) {
-        unordered_map<int, int> freq;
-        for(int a : arr) {
-            freq[a]++;
-            if(freq[a] > ceil(arr.size() / 4)) {
-                return a;
+        int n = arr.size();
+        int quarter = n / 4;
+        for(int i = 0; i < n - quarter; i++) {
+            if(arr[i] == arr[i + quarter]) {
+                return arr[i];
             }
         }
         return -1;
