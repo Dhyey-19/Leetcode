@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Dhyey-19/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhyey-19/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhyey-19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dhyey-19/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Dhyey-19/Leetcode/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dhyey-19/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhyey-19/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
