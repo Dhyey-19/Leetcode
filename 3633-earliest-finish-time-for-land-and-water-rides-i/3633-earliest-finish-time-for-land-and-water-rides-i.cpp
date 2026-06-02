@@ -4,28 +4,24 @@ public:
                            vector<int>& landDuration,
                            vector<int>& waterStartTime,
                            vector<int>& waterDuration) {
+        
+        int ans = INT_MAX;
 
         int n = landStartTime.size();
         int m = waterStartTime.size();
 
-        int ans = INT_MAX;
-
         for (int i = 0; i < n; i++) {
-            int landFinish = landStartTime[i] + landDuration[i];
-
             for (int j = 0; j < m; j++) {
 
-                int waterFinish = waterStartTime[j] + waterDuration[j];
-
                 // Land -> Water
-                int finish1 =
-                    max(landFinish, waterStartTime[j]) + waterDuration[j];
+                int landFinish = landStartTime[i] + landDuration[i];
+                int waterStart = max(landFinish, waterStartTime[j]);
+                ans = min(ans, waterStart + waterDuration[j]);
 
                 // Water -> Land
-                int finish2 =
-                    max(waterFinish, landStartTime[i]) + landDuration[i];
-
-                ans = min(ans, min(finish1, finish2));
+                int waterFinish = waterStartTime[j] + waterDuration[j];
+                int landStart = max(waterFinish, landStartTime[i]);
+                ans = min(ans, landStart + landDuration[i]);
             }
         }
 
