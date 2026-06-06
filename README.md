@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dhyey-19/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Dhyey-19/Leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Dhyey-19/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Dhyey-19/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Dhyey-19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Dhyey-19/Leetcode/tree/master/0500-keyboard-row) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dhyey-19/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhyey-19/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhyey-19/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhyey-19/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Dhyey-19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhyey-19/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Dhyey-19/Leetcode/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Dhyey-19/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhyey-19/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Dhyey-19/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhyey-19/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String Matching
 |  |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dhyey-19/Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -883,4 +888,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhyey-19/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhyey-19/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
