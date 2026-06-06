@@ -4,7 +4,6 @@ public:
         if(l >= r) return 0;
 
         int mid = l + (r - l) / 2;
-
         int cnt = 0;
 
         cnt += mergeSort(nums, l, mid);
@@ -22,7 +21,6 @@ public:
         vector<int> temp;
         int left = l;
         int right = mid + 1;
-
         while(left <= mid && right <= r) {
             if(nums[left] <= nums[right])
                 temp.push_back(nums[left++]);
@@ -30,11 +28,9 @@ public:
                 temp.push_back(nums[right++]);
         }
 
-        while(left <= mid)
-            temp.push_back(nums[left++]);
+        while(left <= mid) temp.push_back(nums[left++]);
 
-        while(right <= r)
-            temp.push_back(nums[right++]);
+        while(right <= r) temp.push_back(nums[right++]);
 
         for(int i = l; i <= r; i++) {
             nums[i] = temp[i - l];
